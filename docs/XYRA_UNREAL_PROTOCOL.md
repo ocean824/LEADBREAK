@@ -1,0 +1,2 @@
+# XYRA Unreal Protocol — Ludus
+Authority Ø > LEADBREAK docs > ADRs > active CodeSpring package > implementation. Loop REQUIREMENT→PLAN→IMPLEMENT→BUILD→VALIDATE→REVIEW→ATTACK→FIX→REVALIDATE→EVIDENCE→GIT. Narrative Pro 2 + Ultra may own shell/meta; FightingGameTemplate only accelerates prototype. Fighter simulation/rollback has one canonical owner and must remain deterministic. Ludus plans from active context/project, stages edits, compiles/tests frame data, rollback/desync, controller, replay and performance. Competitive rules/canon/netcode architecture changes escalate.
