@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Each package declares WP/requirements, simulation/rules version, objective/non-goals, dependencies, docs, Unreal targets, acceptance, frame/rollback/replay/desync/performance tests and migration. Sync active docs to `Docs/XYRA`; branch `feature/LEADBREAK-WP-XXXX`; Git/LFS binary assets. Ludus evidence is independently reviewed before promotion.
