@@ -1,0 +1,2 @@
+# Ludus Project Prompt — LEADBREAK
+Initialize `ocean824/LEADBREAK` Unreal reference build under XYRA. Narrative Pro 2 + Ultra for shell/meta where useful; FightingGameTemplate primary accelerator. LEADBREAK owns deterministic fighter simulation, moves/frame/hit/hurt data, stages/rules and rollback/replay. Execute active CodeSpring manifest only; plan ownership→implement→compile→run frame/rollback/desync/controller/replay/performance Gauntlet→attack/fix→evidence. Preserve simulation fixtures for AXIOM. Escalate rules/netcode/canon changes to Ø.
